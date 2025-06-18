@@ -5,7 +5,7 @@ html, body{
 }
 
 body{
-    background: hsl(216, 15%, 48%);
+    background: hsl(212, 45%, 89%);
     font-family: 'Outfit';
     display: flex;
     justify-content: center;
@@ -34,7 +34,7 @@ div h2{
 }
 
 p{
-    color: hsl(212, 45%, 89%);
+    color: hsl(216, 15%, 48%);
     font-size: 15px;
     font-weight: 400;
     margin: 10px;
